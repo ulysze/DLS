@@ -1,6 +1,7 @@
 # DLS 
 Key : Parametrize Higher LEvel deep Learning techniques and models, methods + Compose them, etc End to End -> Super Useful !
 Where YOU FOCUS on the Parameters of SOTA, opti-personalisable Architectures. 
+The Key will be the front-end and extensibility proposed
 
 Ex : 
 - Create Your base Model (selection phase + extension)
