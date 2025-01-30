@@ -1,4 +1,7 @@
 # DLS 
+Key : Parametrize Higher LEvel deep Learning techniques and models, methods + Compose them, etc End to End -> Super Useful !
+Where YOU FOCUS on the Parameters of SOTA, opti-personalisable Architectures
+
 DL as a science in istelf, the way machine will learn our axioms, etc in the Future -> This REPO will be super important -> Par sa Prise de Partie. 
 Explique les choses qui sont importante pour comprendre le Deep Learning et pourquoi cela sera une Science Omniprésente dans les générations à venir aussi, etc. 
 Backend : Python & Scala (maybe for Type Systems, modularity, protoBuf for distributed Stuff, etc for different things. FrontEnd: Python & Scala)
